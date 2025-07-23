@@ -1,0 +1,16 @@
+{
+  "name": "newsletter-builder",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "juice": "^11.0.1",
+    "morgan": "^1.10.1",
+    "uuid": "^9.0.0"
+  }
+}
